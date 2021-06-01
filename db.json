@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Fido",
+      "dogBreed": "Bulldog",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +28,106 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "tom",
+      "email": "t@t.com",
+      "id": 1
+    },
+    {
+      "name": "tom",
+      "email": "t@t.com",
+      "id": 2
+    },
+    {
+      "name": "tom",
+      "email": "t@t.com",
+      "id": 3
+    },
+    {
+      "name": "tom",
+      "email": "t@t.com",
+      "id": 4
+    },
+    {
+      "name": "tom",
+      "email": "t@t.com",
+      "id": 5
+    },
+    {
+      "name": "tom",
+      "email": "t@t.com",
+      "id": 6
+    },
+    {
+      "name": "tom",
+      "email": "t@t.com",
+      "id": 7
+    },
+    {
+      "name": "tom",
+      "id": 8
+    },
+    {
+      "name": "tom",
+      "id": 9
+    },
+    {
+      "name": "tom",
+      "id": 10
+    },
+    {
+      "name": "tom",
+      "email": "t@t.com",
+      "id": 11
+    },
+    {
+      "name": "tom",
+      "id": 12
+    },
+    {
+      "name": "tom",
+      "id": 13
+    },
+    {
+      "name": "tom",
+      "id": 14
+    },
+    {
+      "name": "tom",
+      "id": 15
+    },
+    {
+      "name": "tom",
+      "email": "t@t.com",
+      "id": 16
+    },
+    {
+      "name": "tom",
+      "email": "t@t.com",
+      "id": 17
+    },
+    {
+      "name": "tom",
+      "email": "t@t.com",
+      "id": 18
+    },
+    {
+      "name": "tom",
+      "email": "t@t.com",
+      "id": 19
+    },
+    {
+      "name": "tom",
+      "email": "t@t.com",
+      "id": 20
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
